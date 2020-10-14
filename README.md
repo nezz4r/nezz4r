@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am very passionate about cooking.
 
-### Spotify Playing 🎧
+### Spotify 🎧
 
 [![Spotify](https://novatorem-rouge-ten.vercel.app/api/spotify)](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
 

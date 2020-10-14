@@ -7,11 +7,11 @@
 - 🌱 I’m currently specializing in the MERN stack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I am very passionate about cooking.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
+[<img src="https://novatorem-rouge-ten.vercel.app/api/spotify" alt="Raul Victor Spotify Playing" width="350" />](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
 
 ### Connect with me:
 

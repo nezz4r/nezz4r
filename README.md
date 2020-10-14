@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-rouge-ten.vercel.app/api/spotify" alt="Raul Victor Spotify Playing" width="350" />](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
+[![Spotify](https://novatorem-rouge-ten.vercel.app/api/spotify)](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
 
 ### Connect with me:
 

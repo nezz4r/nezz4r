@@ -2,12 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulv.tech)](https://raulv.tech)
 
-## I'm a Cook, Developer and Cat Father!
+## I'm a cook, developer and cat father!
 
 - 🌱 I’m currently specializing in the MERN stack
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am very passionate about cooking.
 
 ### Spotify 🎧
 

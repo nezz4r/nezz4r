@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulv.tech)](https://raulv.tech)
 
-## I'm a cook, developer and cat father!
+## I'm a software engineer who spends way too much time cooking.
 
-- 🌱 I’m currently specializing in the MERN stack
+- 🌱 I’m currently specializing in the GraphQL, Apollo, React and Next.js stack.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Spotify 🎧
 

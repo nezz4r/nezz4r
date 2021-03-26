@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulv.tech)](https://raulv.tech)
 
-## I'm a software engineer who spends way too much time cooking.
+## I'm a software engineer who can't code without music.
 
-- 🌱 I’m currently specializing in the GraphQL, Apollo, React and Next.js stack.
+- 🌱 Currently specializing in React and Next.js.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Spotify 🎧
 

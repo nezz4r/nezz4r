@@ -1,11 +1,12 @@
 ### Hi there, I'm Raul - aka [nezz4r][website] 👋
 
-[![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulv.tech)](https://raulv.tech)
+[![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulvictor.dev)](https://raulvictor.dev)
 
 ## I'm a software engineer who can't code without music.
 
-- 🌱 Currently specializing in React and Next.js.
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 Currently specializing in React and Next.js;
+- 👯 I’m looking to collaborate with other content creators;
+- 👨🏽‍🎓 I provide mentorship for less experienced devs.
 
 ### Spotify 🎧
 
@@ -13,9 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="raulv.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="raulvictor.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,8 +43,8 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="nezz4r's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nezz4r&show_icons=true&hide_border=true" />
+<img align="left" alt="nezz4r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nezz4r" />
 
-[website]: https://raulv.tech
+[website]: https://raulvictor.dev
 [instagram]: https://instagram.com/raulvqueiroz
 [linkedin]: https://linkedin.com/in/rvqueiroz

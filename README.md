@@ -1,6 +1,6 @@
 ### Hi there, I'm Raul - aka [nezz4r][website] 👋
 
-[![Website](https://img.shields.io/website?label=raulv.tech&style=for-the-badge&url=https%3A%2F%2Fraulvictor.dev)](https://raulvictor.dev)
+[![Website](https://img.shields.io/website?label=raulvictor.dev&style=for-the-badge&url=https%3A%2F%2Fraulvictor.dev)](https://raulvictor.dev)
 
 ## I'm a software engineer who can't code without music.
 

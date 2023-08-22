@@ -4,7 +4,7 @@
 
 ## A software engineer who is
 
-- 🌱 Currently specializing in React and Next.js with Typescript;
+- 🌱 Currently specializing in Svelte/SvelteKit with TypeScript;
 - 👯 Addicted to LeetCode;
 - 👨🏽‍🎓 A mentor for less experienced devs;
 - Always searching for new things to learn.

@@ -1,6 +1,4 @@
-### Hi there, I'm Raul - aka [nezz4r][website] 👋
-
-<!-- [![Website](https://img.shields.io/website?label=raulvictor.dev&style=for-the-badge&url=https%3A%2F%2Fraulvictor.dev)](https://raulvictor.dev) -->
+### Hi there, I'm Raul 👋
 
 ## A software engineer who is
 
@@ -8,11 +6,7 @@
 - 👯 Addicted to LeetCode;
 - 👨🏽‍🎓 A mentor for less experienced devs;
 - Always searching for new things to learn.
-
-### Spotify 🎧
-
-[![Spotify](https://novatorem-rouge-ten.vercel.app/api/spotify)](https://open.spotify.com/user/12147963901?si=JPNq6M1hSHGKwZJXo5Iysw)
-
+  
 ### Connect with me:
 
 <!-- [<img align="left" alt="raulvictor.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -40,12 +34,4 @@
 <br />
 <br />
 
----
-
-### :zap: GitHub Stats
-
-<img align="left" alt="nezz4r's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nezz4r" />
-
-[website]: https://raulvictor.dev
-[instagram]: https://instagram.com/raulvqueiroz
 [linkedin]: https://linkedin.com/in/rvqueiroz

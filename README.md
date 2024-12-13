@@ -1,11 +1,6 @@
 ### Hi there, I'm Raul 👋
 
-## A software engineer who is
-
-- 🌱 Currently specializing in Svelte/SvelteKit with TypeScript;
-- 👯 Addicted to LeetCode;
-- 👨🏽‍🎓 A mentor for less experienced devs;
-- Always searching for new things to learn.
+## Software Engineer II @ Uber, Frontend
   
 ### Connect with me:
 

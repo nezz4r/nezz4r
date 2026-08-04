@@ -17,22 +17,29 @@
 
 ### About
 
-Product engineer — I take features from data model to shipped interface rather than
-living on one side of an API boundary.
+I'm a product engineer. I take features from data model to shipped interface, and I
+pick up whatever stack the problem calls for rather than defending one.
 
-Day to day at Uber that means **Go**: server-rendered UIs built with
-[Templ](https://templ.guide) on top of an internal framework, plus the layers
-underneath them — adapters, models, and data sources. I've also worked on iOS and
-machine learning there.
+That's meant server-rendered Go one quarter, SwiftUI the next, and LLM pipelines the
+one after. The constant isn't the language — it's shipping something users touch, and
+caring about the unglamorous parts: clear data models, honest error states, and a
+codebase that's still pleasant to work in three years from now.
 
-The through-line is that I like owning a feature end to end, and I care about the
-unglamorous parts: clear data models, honest error states, and a codebase that's
-still pleasant to work in three years from now.
-
-- 🔭 Mostly **Go** and server-rendered UIs these days
-- 📱 Also ship **SwiftUI** — see below
-- 💬 Happy to talk about **Go, SSR, iOS, and product engineering**
+- 🔭 Currently: **Go** and server-rendered UIs at Uber
+- 🤖 Shipping **LLM-backed features** — and building the evaluation to know they work
+- 💬 Happy to talk about **product engineering, Go, SSR, applied LLMs, and iOS**
 - 📫 [raulvictor.dev](https://www.raulvictor.dev/) · [LinkedIn](https://linkedin.com/in/rvqueiroz)
+
+---
+
+### What that's looked like
+
+| Area | What I've done |
+| --- | --- |
+| **Web** | Server-rendered UIs in Go with [Templ](https://templ.guide) on an internal framework — plus the adapters, models, and data sources underneath them |
+| **Applied LLMs** | Shipped real-time analysis of user input and AI review summarisation. Prompt refinement, model training, and LLM-as-a-judge evaluation to keep quality measurable |
+| **Experimentation** | A/B testing and data analysis to decide whether a feature actually earned its place |
+| **Mobile** | iOS in Swift and SwiftUI, offline-first |
 
 ---
 
@@ -57,9 +64,9 @@ still pleasant to work in three years from now.
 
 ### Building
 
-**Neat** — an offline-first iOS app with a TypeScript API behind it. SwiftUI and
-MVVM on the client; Node, PostgreSQL and AWS on the server, with the
-infrastructure defined as code. Source is private for now.
+**Neat** — an offline-first iOS app with a TypeScript API behind it. SwiftUI and MVVM
+on the client; Node, PostgreSQL and AWS on the server, with the infrastructure defined
+as code. Source is private for now.
 
 ---
 

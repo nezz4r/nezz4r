@@ -8,8 +8,8 @@
   <a href="https://linkedin.com/in/rvqueiroz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://nezz4r.github.io">
-    <img src="https://img.shields.io/badge/Website-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://www.raulvictor.dev/">
+    <img src="https://img.shields.io/badge/raulvictor.dev-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/nezz4r?tab=followers">
     <img src="https://img.shields.io/github/followers/nezz4r?style=flat-square&logo=github&label=Follow&color=1a1a1a" alt="GitHub followers" />
@@ -28,7 +28,7 @@ work in three years from now.
 - 🔭 Day job: web frontend at **Uber**
 - 🌱 Currently going deeper on **React Server Components** and **build tooling**
 - 💬 Happy to talk about **React, TypeScript, design systems, and web performance**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/rvqueiroz)
+- 📫 Find me at [raulvictor.dev](https://www.raulvictor.dev/) or on [LinkedIn](https://linkedin.com/in/rvqueiroz)
 
 ---
 
